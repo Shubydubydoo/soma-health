@@ -2,6 +2,7 @@
 
 Evidence-based body composition tracker with AI-powered insights.
 
+
 Built with React + Vite. AI features powered by Claude (Anthropic). Deployed on Vercel.
 
 ---
